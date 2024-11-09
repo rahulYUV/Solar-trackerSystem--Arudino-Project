@@ -1,2 +1,2 @@
 # solar-tracker-using-Arudino
-#arduino Projecy
+#arduino Project
